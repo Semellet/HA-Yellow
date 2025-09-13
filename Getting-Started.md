@@ -1,3 +1,5 @@
+<h2>Putting the bits together</h2>
+
 Step 1: Install the RaspberryPi onto the mainboard as shown (be careful with the pins under the board):
 <img width="800" height="814" alt="HA-Amber" src="https://github.com/user-attachments/assets/4f1d834f-9183-4bbf-9f26-ff6b7a58ce02" />
 
