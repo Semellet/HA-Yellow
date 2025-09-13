@@ -9,3 +9,10 @@ Step 3: Find the thermal pads and peel off the plastic before putting them over 
 
 Step 4: Put the Heatsink on the Pi and push the screws through the holes until they snap into place (hold it tight, but dont crush it for 30-60 seconds so the pads stick to the Heatsink well)
 <img width="800" height="814" alt="Heatsink-Holes" src="https://github.com/user-attachments/assets/564b4329-9c06-4fe9-888e-a660c8a4eee4" />
+
+<i>NOTE:</i> Your Compute Module 5 comes with enough storage to install Home Assistant without an SSD, so you can use the SSD as extra storage for Security Camera video etc.
+
+Step 5: Install the SSD in the SSD slot - if you have bought a shorter version - you might need to move the screw on the back to another hole, but it should fit in one of the holes shown - it goes here:
+<img width="1600" height="1628" alt="SSD-Install" src="https://github.com/user-attachments/assets/1eea0b77-30a0-4def-8170-411680137b4b" />
+
+The board is no ready for Installing Home Assistant.
