@@ -29,4 +29,6 @@ Step 10: Remove the power and ethernet cable and install the mainboard in the pl
 
 Step 11: Plug in the ethernet and power again.  You should get lights of all colours.
 
-Step 12: On your PC go to gttp://hoameassistant.local:8123 You should get the Home Assisstant start screen.
+Step 12: On your PC go to http://homeassistant.local:8123 You should get the Home Assisstant start screen.
+
+Step 13: Setup an account for your machine - choose a <b><i><u>REALLY</b></i></u> good password - you do not want outsiders hacking your security cams.
